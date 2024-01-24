@@ -2,3 +2,10 @@ Lumber Base price configuration
 Lumber program
 Lumber Condition Editor
 
+RL based Process how it gets updated weekly and addons to base price discounts adders one time conditions,transfer pricing 
+
+ZPTS (contract) for each material 
+ZPPR (PROGRAM PRICE VMI)
+ZREP (Reference price - PL Price)
+ZMAB( internal transfer base price to program price)
+
