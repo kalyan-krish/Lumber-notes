@@ -4,8 +4,24 @@ Lumber Condition Editor
 
 RL based Process how it gets updated weekly and addons to base price discounts adders one time conditions,transfer pricing 
 
-ZPTS (contract) for each material 
+ZPTS (contract) for each material (contract is attached to customer in C4C not pricefx)
 ZPPR (PROGRAM PRICE VMI)
-ZREP (Reference price - PL Price)
-ZMAB( internal transfer base price to program price)
+ZREP (Reference price - PL Price) to check last week base price 
+ZMAB( internal transfer base price to program price) transfer price from mill to customer weyerhauser location 
+
+base price changes every week
+program price changes for 2 years (adders changes)
+
+Base price configuration for program pricing for lumber
+
+1. Quote - base price
+2. Dashboard - base price config status
+3. Live price grid - active pricing - review and submit
+4. Pricing in A- tables
+5. RL Catalog and RL Data source
+
+
+
+
+
 
