@@ -72,6 +72,14 @@ ZMAB - NEXT
 if condition type is ZMAB
 use condition formula as ZPPR
 
+after submitted quote reflected in dashboard
+
+generate grid in Dashboard
+
+generate a new LPG for each base price config quote
+
+once grid is submitted cannot be updated again
+need to regenerate new live price grid
 
 
 
