@@ -51,5 +51,29 @@ Keyes, Alicia (Experis) 16 minutes 26 seconds
 So UFP is the customer, Windsor is their plant.
 
 
+catalog formula items is used to make changes in base price (adder, aggregration,weeks offset)
+
+for program pricing we dont aggregrate 
+
+condition formula change price based on different conditions
+
+Distribution channel direct - 10 for zppr program pricing
+internal - 30 for zmab transfer pricing 
+
+items are manually added
+
+relationship between primary and alternate materials is not documented
+
+alternate materials dont have RL Tags seperate
+
+ZPPR - FIRST
+ZMAB - NEXT
+
+if condition type is ZMAB
+use condition formula as ZPPR
+
+
+
+
 
 
